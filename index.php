@@ -1,5 +1,5 @@
 <?php
 
-Include="Login.html"
+include_once=("Login.html");
 
 ?>
